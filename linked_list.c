@@ -1,6 +1,5 @@
-
 #include <stdio.h>
-#include <stdlib.h> //For mac/linus
+#include <stdlib.h> //For mac/linux
 //#include <windows.h> //Have to include this to make use of malloc()
 
 //STRUCT DEFS
